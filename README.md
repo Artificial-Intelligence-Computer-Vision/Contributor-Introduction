@@ -1,6 +1,6 @@
 # Contributor Introduction [Contributor Organization Security]
 
-## Individuals who are not affiliated with the Bellande Robotics & Sensors Research Innovation Center or are not members of the community to which you have send an email along with your resume need to fork this repository with the following Introduction
+## Individuals who are not affiliated with the Bellande Artificial Intelligence & Computer Vision Research Innovation Center or are not members of the community to which you have send an email along with your resume need to fork this repository with the following Introduction
 
 
 **Name:** [Contributor's Name]  
